@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".demo">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="147dp"
+                android:layout_marginTop="30dp"
+                android:ellipsize="middle"
+                android:gravity="center"
+                android:padding="10dp"
+                android:singleLine="true"
+                android:text="Thong Tin Sinh Vien Dang Hoc Mon Lap Trinh"
+                android:textColor="#4778cc"
+                android:textSize="20sp"
+                android:textStyle="bold|italic" />
+
+            <EditText
+                android:id="@+id/txtmamon"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Nhap Ma Mon"
+                android:inputType="textPassword"
+                android:textSize="28dp" />
+
+            <!--    Image View-->
+            <ImageView
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="10dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/meo" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Gioi Tinh"
+                android:textColor="#334db5"
+                android:textSize="28sp"
+
+                />
+
+            <RadioGroup
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <RadioButton
+                    android:id="@+id/rdonam"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:text="Nam"
+                    android:textSize="26sp"
+
+                    />
+
+                <RadioButton
+                    android:id="@+id/rdonu"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:text="Nu"
+                    android:textSize="26sp"
+
+                    />
+
+                <RadioButton
+                    android:id="@+id/rdokhac"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:text="khac"
+                    android:textSize="26sp"
+
+                    />
+            </RadioGroup>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Chon Mon"
+                android:textColor="#334db5"
+                android:textSize="28dp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <CheckBox
+                    android:id="@+id/ckjava"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:text="Java"
+                    android:textColor="#334db5"
+                    android:textSize="26sp"
+
+                    />
+
+                <CheckBox
+                    android:id="@+id/C"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:text="C#"
+                    android:textColor="#334db5"
+                    android:textSize="26sp"
+
+                    />
+
+                <CheckBox
+                    android:id="@+id/python"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:text="Python"
+                    android:textColor="#334db5"
+                    android:textSize="26sp"
+
+                    />
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Cong Tac Phong Hoc"
+                android:textColor="#334db5"
+                android:textSize="28dp" />
+
+            <ToggleButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:textOff="Tat"
+                android:textOn="Bat" />
+
+            <Button
+                android:id="@+id/btnsubmit"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="10dp"
+                android:backgroundTint="#690665"
+                android:drawableLeft="@drawable/curr"
+                android:drawablePadding="10dp"
+                android:text="Submit"
+                android:textSize="50sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Cong Tac Chuc Nang"
+                android:textColor="#334db5"
+                android:textSize="28sp" />
+
+            <Switch
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:text="Bluetooth"
+                android:textSize="26sp" />
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:counterEnabled="true"
+                app:counterMaxLength="10"
+                app:errorEnabled="true">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/txtten"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Nhap Ten"
+
+                    />
+            </com.google.android.material.textfield.TextInputLayout>
+
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>
