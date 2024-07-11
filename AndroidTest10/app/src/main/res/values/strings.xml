@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AndroidTest1.0</string>
+    <string name="teacher_info">THÔNG TIN GIÁO VIÊN</string>
+    <string name="enter_id">Nhập mã</string>
+    <string name="enter_name">Nhập tên</string>
+    <string name="gender">Giới tính</string>
+    <string name="male">Nam</string>
+    <string name="female">Nữ</string>
+    <string name="hobbies">Sở thích</string>
+    <string name="watch_movies">Xem phim</string>
+    <string name="listen_music">Nghe nhạc</string>
+    <string name="singing">Ca hát</string>
+    <string name="travel">Du lịch</string>
+    <string name="reading">Đọc sách</string>
+    <string name="sports">Thể dục</string>
+    <string name="display">HIỂN THỊ</string>
+    <string name="exit">THOÁT</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember me?</string>
+    <string name="login">ĐĂNG NHẬP</string>
+    <string name="register">ĐĂNG KÝ</string>
+</resources>
+
