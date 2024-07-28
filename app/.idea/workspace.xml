@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c651fdea-30ae-4086-84bd-29c4266623ce" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../PhamTuanAnh_21103100274_DHTI15A1CL/app/src/main/java/com/example/phamtuananh_21103100274_dhti15a1cl/Page1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhamTuanAnh_21103100274_DHTI15A1CL/app/src/main/java/com/example/phamtuananh_21103100274_dhti15a1cl/Page2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhamTuanAnh_21103100274_DHTI15A1CL/app/src/main/java/com/example/phamtuananh_21103100274_dhti15a1cl/Page3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhamTuanAnh_21103100274_DHTI15A1CL/app/src/main/res/layout/activity_page1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhamTuanAnh_21103100274_DHTI15A1CL/app/src/main/res/layout/activity_page2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhamTuanAnh_21103100274_DHTI15A1CL/app/src/main/res/layout/activity_page3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sqllite/app/src/main/java/adapter/adap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sqllite/app/src/main/java/com/example/sqllite/FragementPage1ViewModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sqllite/app/src/main/java/com/example/sqllite/Page1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sqllite/app/src/main/java/com/example/sqllite/Page2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sqllite/app/src/main/java/com/example/sqllite/Page3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sqllite/app/src/main/java/com/example/sqllite/ViewPagerAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sqllite/app/src/main/java/com/example/sqllite/fragement_page1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sqllite/app/src/main/java/com/example/sqllite/fragment_page1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sqllite/app/src/main/java/com/example/sqllite/fragment_page2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sqllite/app/src/main/java/com/example/sqllite/fragment_page3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sqllite/app/src/main/java/dao/dao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sqllite/app/src/main/res/layout/fragment_page1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sqllite/app/src/main/res/layout/fragment_page2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sqllite/app/src/main/res/layout/fragment_page3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/.idea/deploymentTargetSelector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/.idea/migrations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/.idea/other.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/androidTest/java/com/example/androidtest10/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/java/com/example/androidtest10/DemospinnerJava.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/java/com/example/androidtest10/FileMenu1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/java/com/example/androidtest10/Form1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/java/com/example/androidtest10/Form2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/java/com/example/androidtest10/Form3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/java/com/example/androidtest10/Form4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/java/com/example/androidtest10/Form5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/java/com/example/androidtest10/Form6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/java/com/example/androidtest10/Frm_C1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/java/com/example/androidtest10/Frm_DangKi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/java/com/example/androidtest10/Lab1a.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/java/com/example/androidtest10/Lab1b.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/java/com/example/androidtest10/Lab1c.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/java/com/example/androidtest10/Lab2a.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/java/com/example/androidtest10/Lab2b.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/java/com/example/androidtest10/Lab2c.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/java/com/example/androidtest10/Lab2d.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/java/com/example/androidtest10/Lab2e.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/java/com/example/androidtest10/Lab3a.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/java/com/example/androidtest10/Lab3b.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/java/com/example/androidtest10/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/java/com/example/androidtest10/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/java/com/example/androidtest10/ProductAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/java/com/example/androidtest10/VDSpinner1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/java/com/example/androidtest10/adapter/CustomAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/java/com/example/androidtest10/adapter/schoolAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/java/com/example/androidtest10/baiso3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/java/com/example/androidtest10/baitapgrid1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/java/com/example/androidtest10/baitapso2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/java/com/example/androidtest10/manhinh1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/java/com/example/androidtest10/model/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/java/com/example/androidtest10/model/school.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/drawable/_201516.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/drawable/_307_msn_102525.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/drawable/_77519684_10158675188522823_7436488509713286219_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/drawable/apps_37935_9007199266245907_b029bd80_381a_4869_854f_bac6f359c5c9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/drawable/apps_60673_9007199266244427_4d45042b_d7a5_4a83_be66_97779553b24d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/drawable/beauty.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/drawable/buncha.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/drawable/custom_button.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/drawable/custom_edittext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/drawable/nemchua.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/drawable/phobo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/drawable/pngtreeyahoo_purple_icon_3591532.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/drawable/vnlg_glitch.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/drawable/yahoo_co_the_phai_boi_thuong.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/layout/activity_baiso3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/layout/activity_baitapgrid1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/layout/activity_baitapso2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/layout/activity_demospinner_java.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/layout/activity_form1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/layout/activity_form2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/layout/activity_form3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/layout/activity_form4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/layout/activity_form5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/layout/activity_form6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/layout/activity_frm_dang_ki.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/layout/activity_frmc1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/layout/activity_lab1a.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/layout/activity_lab1b.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/layout/activity_lab1c.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/layout/activity_lab2a.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/layout/activity_lab2b.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/layout/activity_lab2c.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/layout/activity_lab2d.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/layout/activity_lab2e.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/layout/activity_lab3a.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/layout/activity_lab3b.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/layout/activity_manhinh1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/layout/activity_vdspinner1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/layout/item_vdspinner1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/layout/list_item_icon_mxh.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/layout/list_monan.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/mipmap-anydpi/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/app/src/test/java/com/example/androidtest10/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/gradle/libs.versions.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidTest10/settings.gradle" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2jSQhWqwdBu1SutiYf3LYXeGnwO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "android.gradle.sync.needed": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Volumes/work/kotlinjava/app"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c651fdea-30ae-4086-84bd-29c4266623ce" name="Changes" comment="" />
+      <created>1721378118062</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721378118062</updated>
+    </task>
+    <servers />
+  </component>
+</project>
